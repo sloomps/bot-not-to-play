@@ -1,0 +1,18 @@
+{
+  "name": "nova-bot-enhanced",
+  "version": "3.0.0",
+  "description": "Enhanced all-in-one Discord bot: moderation, economy, levels, fun, giveaways, tickets, auto-mod, polls, reminders, mini-games, logging and more (discord.js v14)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2"
+  },
+  "license": "MIT"
+}
